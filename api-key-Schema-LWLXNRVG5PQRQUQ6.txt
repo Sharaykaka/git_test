@@ -1,3 +1,5 @@
+Schema key
+
 === Confluent Cloud API key: lsrc-97kznm ===
 
 API key:
@@ -5,3 +7,8 @@ LWLXNRVG5PQRQUQ6
 
 API secret:
 Re7o+03CXhQwIt58eMObVyW9dKUlt48ufnKHd9s2EfD0fh/PtT5RaWqhaLm1tFjw
+
+
+https://psrc-95km5.eu-central-1.aws.confluent.cloud
+
+
