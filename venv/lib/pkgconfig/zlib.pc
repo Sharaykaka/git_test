@@ -1,0 +1,13 @@
+prefix=/run/media/owais/DATA_OWAIS/iNeuron_Git/venv
+exec_prefix=/run/media/owais/DATA_OWAIS/iNeuron_Git/venv
+libdir=/run/media/owais/DATA_OWAIS/iNeuron_Git/venv/lib
+sharedlibdir=/run/media/owais/DATA_OWAIS/iNeuron_Git/venv/lib
+includedir=/run/media/owais/DATA_OWAIS/iNeuron_Git/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
